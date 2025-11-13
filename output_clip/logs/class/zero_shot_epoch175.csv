@@ -1,0 +1,2 @@
+epoch,top1_acc,K,N,n_per_class
+175,0.009804,102,816,8
