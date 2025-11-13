@@ -4,7 +4,7 @@ Prompt-controlled text-to-image synthesis on Oxford-102 Flowers using a DCGAN tr
 
 ---
 
-## Repository Structure (brief)
+## Repository Structure 
 
 ```
 DCGAN-Text-to-Image/
@@ -31,6 +31,13 @@ DCGAN-Text-to-Image/
 ---
 
 ## Data Preparation
+
+Download
+---
+Oxford 102 flowers image dataset (https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+
+Run convert_flowers_to_hd5_script.py to obtain the flowers.hdf5 file
+----
 
 Required assets (place them under `./102flowers/` and alongside):
 
